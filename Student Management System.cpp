@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-
 typedef struct Student {
     char rollNumber[50];
     char name[50];
